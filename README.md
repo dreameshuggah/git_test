@@ -21,6 +21,6 @@
 
 
 
-### git merge
+### git pull  : to merge files
 1) add comment
 2) to escape : click ESC + SHIFT + Z Z
